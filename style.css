@@ -799,6 +799,10 @@ input:focus {
   .card-view-box {
     height: 575px;
   }
+  
+  .card-controls{
+    margin-bottom: 5%;
+  }
 
   .card {
     width: 300px;
